@@ -1,3 +1,5 @@
+<link rel="stylesheet" type="text/css" href="path/to/styles.css">
+
 <h1 align="center">Hola 👋, soy Dmitry Ryzhenkov</h1>
 <h3 align="center">Ciéntifico de datos y desarrollador de software</h3>
 
