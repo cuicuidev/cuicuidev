@@ -9,6 +9,8 @@
 
 - 🏢 Ambassador en [HACKABOSS](https://hackaboss.com)
 
+- 🦀 Rustacean!!!
+
 - 🌱 Actualmente estoy adentrándome más que nunca en el mundo de la arquitectura del software, dev ops y ML ops. Concretamente, estoy explorando algunos de los servicios de AWS para el desarrollo de aplicaciones móviles full stack con integración de inteligencia artificial.
 
 - 💬 Atiendo a consultas acerca de inteligencia artificial, web scraping, análisis de datos y desarrollo backend en Python!
